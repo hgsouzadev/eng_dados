@@ -4,4 +4,5 @@ Pós Graduação de Engenharia de Dados - IGTI
  - Airflow
  - Spark
  - Docker
+ - Argo CD
  

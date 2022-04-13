@@ -1,8 +1,5 @@
-# eng_dados
-
-Pós Graduação de Engenharia de Dados - IGTI
- - Airflow
- - Spark
- - Docker
- - Argo CD
- 
+Arquiteturas de Dados Escaláveis
+    - Kubernetes
+    - Pipelines de Dados
+    - Orquestração
+    - Processamento de Big Data
